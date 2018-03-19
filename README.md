@@ -1,4 +1,4 @@
-## Setup
+# Setup
 Ruby 2.4
 
 # Description
@@ -17,5 +17,5 @@ Commands to move a robot
 
 Any move that would cause the robot to fall must be ignored.
 
-## Running the test
-> rspec
+# Running the test
+run 'rspec'
